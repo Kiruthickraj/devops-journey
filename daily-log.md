@@ -1,6 +1,6 @@
 # Daily Log
 - 23 Oct: Setup completed (WSL, Java 17, Git, SSH, VsCode)
-- 24 Oct: Practiced git commit with editor
+- 23 Oct: Practiced git commit with editor
 
 ## Day 0 - 23 Oct 2026: Environment setup and Linux basics
 
